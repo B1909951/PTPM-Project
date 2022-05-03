@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDDate",
+            "request": "launch",
+            "mainClass": "Buoi2.SDDate",
+            "projectName": "LTHDTA"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDDiem",
+            "request": "launch",
+            "mainClass": "Buoi2.SDDiem",
+            "projectName": "LTHDTA"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDPhanSo",
+            "request": "launch",
+            "mainClass": "Buoi2.SDPhanSo",
+            "projectName": "LTHDTA"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDSinhVien",
+            "request": "launch",
+            "mainClass": "Buoi3.SDSinhVien",
+            "projectName": "LTHDTA"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDConVat",
+            "request": "launch",
+            "mainClass": "Buoi4.SDConVat",
+            "projectName": "LTHDTA"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDDiemM",
+            "request": "launch",
+            "mainClass": "Buoi4.SDDiemM",
+            "projectName": "LTHDTA"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDSVCNTT",
+            "request": "launch",
+            "mainClass": "Buoi4.SDSVCNTT",
+            "projectName": "LTHDTA"
+        }
+    ]
+}
