@@ -2,8 +2,6 @@ package Buoi3;
 
 import java.util.Scanner;
 
-import Buoi2.Date;
-
 public class SinhVien {
 	private String mssv;
 	private String htsv;
